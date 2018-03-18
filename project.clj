@@ -9,4 +9,4 @@
                  [me.raynes/fs "1.4.6"]]
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :plugins [[lein-cloverage "1.0.6"]])
+  :plugins [[lein-cloverage "1.0.10"]])
