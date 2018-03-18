@@ -1,6 +1,6 @@
 (defproject com.otfrom/clucy "0.7.2.1"
   :description "A Clojure interface to the Lucene search engine"
-  :url "http://github/kostafey/clucy"
+  :url "http://github/otfrom/clucy"
   :dependencies [[org.clojure/clojure "1.9.0"]
                  [org.apache.lucene/lucene-core "7.2.1"]
                  [org.apache.lucene/lucene-queryparser "7.2.1"]
